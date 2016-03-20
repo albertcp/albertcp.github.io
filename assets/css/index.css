@@ -1,0 +1,32 @@
+body{
+    background-image: url(../images/background.jpg);
+    background-size: 100%;
+    font-family: Roboto, sans-serif, Arial;
+    color: aliceblue;
+}
+
+#principal{
+    
+}
+
+#name{
+}
+
+#about-me{
+    font-size: 18px;
+}
+
+#twitter.resize{
+
+}
+
+#footer{
+    position: relative;
+}
+#cc{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 10px;
+    color: darkgray;
+}
