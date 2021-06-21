@@ -1,16 +1,16 @@
 # main text of home
 name: Alberto Camporredondo
-bio: Computer Science student. 
+bio: Computer Science Engineer. CyberSecurity, AI and Softwre development lover.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and related stuff.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https:albertcp.github.io
+url: https://albertcp.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -49,7 +49,7 @@ keybase: albertcp
 authors:
     albertcp:
         name: Alberto Camporredondo
-        bio: Computer science student. 
+        bio: Computer Science Engineer. CyberSecurity, AI and Softwre development lover
         external-image: false
         picture: assets/images/profile.jpg
         twitter: albertcp95
@@ -71,11 +71,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
-blog: false
+about: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
